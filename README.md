@@ -1,3 +1,3 @@
 # learningDSA
-Starting to learn dsa. 
-These are the code files of the questions i have been solving with respect to dsa.
+Starting to learn DSA. 
+These are the code files of the questions I have been solving in DSA.
